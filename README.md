@@ -1,6 +1,6 @@
 ## Study/Roadmap on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAGs)
 
-### Introduction to LLMs and RAGs
+### [Introduction to LLMs and RAGs](https://github.com/Praveenk8051/llms-learning-roadmap/blob/main/docs/introduction_to_llms_and_rags.md)
 
 1. **Overview of Large Language Models (LLMs)**
    - **What are LLMs?**

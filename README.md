@@ -18,7 +18,7 @@
    - **Common Applications of RAG**
      - RAG is utilized in applications like question answering, customer support, and knowledge management, where providing accurate and contextually relevant information is crucial.
 
-### Deep Dive into LLMs
+### [Deep Dive into LLMs](https://github.com/Praveenk8051/llms-learning-roadmap/blob/main/docs/deep_dive_into_llms.md)
 
 3. **Architecture and Training of LLMs**
    - **Neural Network Basics**

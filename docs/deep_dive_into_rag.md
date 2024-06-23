@@ -7,6 +7,9 @@
 
 Retrieval-Augmented Generation (RAG) is an innovative approach in natural language processing (NLP) that combines the strengths of retrieval-based systems and generative models. At its core, RAG enhances the ability of generative models to produce accurate and contextually relevant text by integrating them with retrieval mechanisms. These mechanisms draw on vast repositories of text to find pertinent information, which the generative model then uses to construct responses. The primary principle behind RAG is to improve the quality and factual accuracy of generated text, particularly in complex or specialized domains where the model’s knowledge might be limited or outdated.
 
+
+![RAGs System Overview](/images/rags.jpg)
+
 #### Difference Between RAG and Pure LLM Approaches
 
 While traditional large language models (LLMs) like GPT-3 generate responses based solely on the patterns they have learned during training, RAG systems enhance this process by incorporating real-time information retrieval. Pure LLM approaches rely on a pre-trained dataset and generate text based on learned probabilities, which can sometimes lead to inaccuracies or outdated information. In contrast, RAG systems dynamically fetch relevant documents or data points from an external database or knowledge base, ensuring that the generated content is not only contextually appropriate but also factually accurate. This hybrid approach addresses the limitations of pure generative models, making RAG systems more robust and reliable for tasks requiring up-to-date and precise information.

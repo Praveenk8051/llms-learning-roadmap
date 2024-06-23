@@ -7,9 +7,13 @@
 
 Neural networks form the backbone of large language models (LLMs). These computational models are inspired by the human brain, consisting of layers of interconnected nodes or "neurons." Each neuron processes input data and passes it through an activation function, which determines its output. Neural networks are trained using vast amounts of data, adjusting the weights of the connections between neurons to minimize error in predictions. This process, called backpropagation, involves calculating the gradient of the loss function and updating the weights accordingly. Through this iterative process, neural networks learn to identify patterns and make predictions with remarkable accuracy.
 
+![Big Picture - Neural Network](/images/nlp_neunet.png)
+
 #### Transformer Architecture
 
 The introduction of the transformer architecture revolutionized natural language processing (NLP). Unlike traditional recurrent neural networks (RNNs) and long short-term memory (LSTM) networks, transformers rely on a mechanism called self-attention. This allows the model to weigh the importance of different words in a sentence when making predictions, enabling it to capture long-range dependencies more effectively. The transformer architecture consists of an encoder-decoder structure, where the encoder processes the input sequence and the decoder generates the output sequence. Transformers are highly parallelizable, which makes them efficient to train on large datasets, contributing to their widespread adoption in LLMs.
+
+![Transformer Architecture](/images/transformer_archite.png)
 
 #### Training Data and Techniques
 
@@ -24,6 +28,8 @@ Generative Pre-trained Transformer 3 (GPT-3) and its successor GPT-4 are among t
 #### BERT and Its Variants
 
 Bidirectional Encoder Representations from Transformers (BERT), developed by Google, is another groundbreaking LLM. BERT differs from GPT models in that it is designed for understanding the context of words in a sentence, rather than generating text. It uses a bidirectional approach, considering both the left and right context of a word during training. This allows BERT to achieve state-of-the-art performance in various NLP tasks, including sentiment analysis, named entity recognition, and question-answering. Variants of BERT, such as RoBERTa, ALBERT, and DistilBERT, have been developed to optimize its performance, efficiency, and resource requirements, further expanding its applicability.
+
+![BERT Architecture](/images/bert.png)
 
 #### Other Notable Models
 

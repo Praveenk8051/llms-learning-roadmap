@@ -6,13 +6,21 @@
 
 Large Language Models (LLMs) are advanced artificial intelligence systems designed to understand and generate human-like text based on vast amounts of data. These models utilize deep learning algorithms, particularly neural networks, to predict and generate coherent and contextually relevant text. By processing extensive datasets, LLMs can perform a wide range of language-related tasks, from simple text generation to complex problem-solving, making them valuable tools in various industries.
 
+![LLMs](/images/llms.jpg)
+
+
 **History and Evolution of LLMs**
 
 The development of LLMs has been marked by significant milestones in AI research. The journey began with early natural language processing (NLP) models, which were relatively simple and limited in scope. The introduction of neural networks and, subsequently, deep learning revolutionized the field. Models like Google's BERT and OpenAI's GPT series showcased the potential of LLMs by achieving unprecedented levels of language understanding and generation. Over time, these models have grown in complexity and capability, leading to the creation of even more powerful iterations, such as GPT-4, which can understand and generate text with remarkable accuracy and fluency.
 
+![Evolution](/images/evolution.PNG)
+
+
 **Key Applications and Use Cases**
 
 LLMs have found applications in numerous fields, transforming the way we interact with technology. In customer service, LLMs power chatbots and virtual assistants, providing instant support and improving user experience. In content creation, they assist in writing articles, generating marketing copy, and even composing music. Healthcare professionals use LLMs for tasks like summarizing medical records and predicting patient outcomes. Moreover, LLMs are employed in research and education to analyze vast datasets and provide insights. Their versatility and adaptability make them indispensable in a rapidly evolving digital landscape.
+
+![Applications](/images/applications.PNG)
 
 #### Introduction to Retrieval-Augmented Generation (RAG)
 

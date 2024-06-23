@@ -52,7 +52,7 @@
    - **Interpretability and Explainability**
      - Understanding the decision-making process of LLMs is challenging due to their complex architectures, posing difficulties in interpreting and explaining their outputs.
 
-### Deep Dive into RAG
+### [Deep Dive into RAG](https://github.com/Praveenk8051/llms-learning-roadmap/blob/main/docs/deep_dive_into_rag.md)
 
 7. **Basics of Retrieval-Augmented Generation**
    - **Concept and Principles**

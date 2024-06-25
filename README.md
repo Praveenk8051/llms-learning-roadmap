@@ -108,7 +108,7 @@
     - **Efficient Retrieval Methods**
       - Strategies to improve retrieval efficiency, including indexing techniques, caching frequently accessed data, and optimizing search algorithms.
 
-### Advanced Topics
+### [Advanced Topics](https://github.com/Praveenk8051/llms-learning-roadmap/blob/main/docs/advanced_topics.md)
 
 15. **Future of LLMs and RAGs**
     - **Trends and Advancements**
